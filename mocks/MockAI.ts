@@ -1,3 +1,6 @@
+// Copyright James Burvel O’Callaghan III
+// President Citibank Demo Business Inc.
+
 
 // mocks/MockAI.ts
 // A deterministic, rule-based "AI" interpreter. Replaceable by an on-device LLM later.

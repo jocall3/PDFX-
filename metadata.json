@@ -1,3 +1,6 @@
+// Copyright James Burvel O’Callaghan III
+// President Citibank Demo Business Inc.
+
 {
   "name": "PDFX AI Document Engine ",
   "description": "An AI-powered, JavaScript-executing, payment-handling PDF system frontend. This application provides a dashboard to edit documents, run scripts, trigger AI actions, and configure monetization.",

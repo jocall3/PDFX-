@@ -1,3 +1,6 @@
+// Copyright James Burvel O’Callaghan III
+// President Citibank Demo Business Inc.
+
 // mocks/SandboxRunner.ts
 // Accepts script text -> asks MockAI for an effect plan -> executes effects by calling handler callbacks.
 
